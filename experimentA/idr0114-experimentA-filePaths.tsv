@@ -221,11 +221,11 @@ Project:name:idr0114-lindsay-hdbr/experimentA/Dataset:name:Test2	/uod/idr/filese
 Project:name:idr0114-lindsay-hdbr/experimentA/Dataset:name:Test2	/uod/idr/filesets/idr0114-lindsay-hdbr/20210827-ome-tiffs-ftp/HDBR_converted_files_1/11523,10,Brain SL2,12pcw,33_Ki67.ome.tiff
 Project:name:idr0114-lindsay-hdbr/experimentA/Dataset:name:Test2	/uod/idr/filesets/idr0114-lindsay-hdbr/20210827-ome-tiffs-ftp/HDBR_converted_files_1/11557,3,Head,CS23,113_GAP43.ome.tiff
 Project:name:idr0114-lindsay-hdbr/experimentA/Dataset:name:Test2	/uod/idr/filesets/idr0114-lindsay-hdbr/20210827-ome-tiffs-ftp/HDBR_converted_files_1/11557,3,Head,CS23,125_2015-12-15 15_43_09.ome.tiff
-Project:name:idr0114-lindsay-hdbr/experimentA/Dataset:name:Test2	/uod/idr/filesets/idr0114-lindsay-hdbr/20210827-ome-tiffs-ftp/HDBR_converted_files_1/12130,12,K&A,18pcw,27_cep164.ome.tiff
+Project:name:idr0114-lindsay-hdbr/experimentA/Dataset:name:Test4	/uod/idr/filesets/idr0114-lindsay-hdbr/20211001-ftp-12130-converted/12130,12,K_A,18pcw,27_cep164.ome.tiff
 Project:name:idr0114-lindsay-hdbr/experimentA/Dataset:name:Test2	/uod/idr/filesets/idr0114-lindsay-hdbr/20210827-ome-tiffs-ftp/HDBR_converted_files_1/11557,3,Head,CS23,165_GAP43.ome.tiff
 Project:name:idr0114-lindsay-hdbr/experimentA/Dataset:name:Test2	/uod/idr/filesets/idr0114-lindsay-hdbr/20210827-ome-tiffs-ftp/HDBR_converted_files_1/12130,12,K&A,18pcw,32_arl3.ome.tiff
 Project:name:idr0114-lindsay-hdbr/experimentA/Dataset:name:Test2	/uod/idr/filesets/idr0114-lindsay-hdbr/20210827-ome-tiffs-ftp/HDBR_converted_files_1/11557,3,Head,CS23,49_EPHA7.ome.tiff
-Project:name:idr0114-lindsay-hdbr/experimentA/Dataset:name:Test2	/uod/idr/filesets/idr0114-lindsay-hdbr/20210827-ome-tiffs-ftp/HDBR_converted_files_1/12130,12,K&A,18pcw,32_cep120.ome.tiff
+Project:name:idr0114-lindsay-hdbr/experimentA/Dataset:name:Test4	/uod/idr/filesets/idr0114-lindsay-hdbr/20211001-ftp-12130-converted/12130,12,K_A,18pcw,32_cep120.ome.tiff
 Project:name:idr0114-lindsay-hdbr/experimentA/Dataset:name:Test2	/uod/idr/filesets/idr0114-lindsay-hdbr/20210827-ome-tiffs-ftp/HDBR_converted_files_1/11587,1,head,CS20,50_ki67.ome.tiff
 Project:name:idr0114-lindsay-hdbr/experimentA/Dataset:name:Test2	/uod/idr/filesets/idr0114-lindsay-hdbr/20210827-ome-tiffs-ftp/HDBR_converted_files_1/12130,12,K_A,18pcw,31_ki67.ome.tiff
 Project:name:idr0114-lindsay-hdbr/experimentA/Dataset:name:Test2	/uod/idr/filesets/idr0114-lindsay-hdbr/20210827-ome-tiffs-ftp/HDBR_converted_files_1/11587,1,head,CS20,51_atoh1.ome.tiff
