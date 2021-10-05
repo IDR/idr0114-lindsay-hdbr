@@ -65,15 +65,15 @@ for path in paths:
     count3 += 1
     with open(annot_file) as ap:
         line = ap.readline().strip()
-        dataset_name = line.split(' ')[0]
-        print ("dataset name")
-        print (dataset_name)
         count2 = 0
         bits = path.split('/')
         lenght = len(bits)
         image_name = bits[lenght - 1]
         while line and len(line) > 0:
             count2 += 1
+            dataset_name = line.split('	')[0]
+            print ("dataset name")
+            print (dataset_name)
             if image_name in line:
                 print(count3)
                 print(image_name)
