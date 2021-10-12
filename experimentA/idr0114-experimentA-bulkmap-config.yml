@@ -46,6 +46,9 @@ columns:
   - name: Channels
     include: true
 
+  - name: Processed Data File
+    include: true
+
   - name: Visualisation Method
     include: true
 
