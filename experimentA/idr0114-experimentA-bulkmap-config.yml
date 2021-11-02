@@ -72,7 +72,7 @@ columns:
         - name: Antibody Identifier 1
           clientname: Antibody Identifier
           include: true
-          omitempty: false
+          omitempty: true
         - name: Antibody Identifier 1
           clientname: Antibody Identifier URL
           clientvalue: https://www.ncbi.nlm.nih.gov/nuccore/{{ value|urlencode }}
@@ -88,7 +88,7 @@ columns:
         - name: Antibody Identifier 2
           clientname: Antibody Identifier
           include: true
-          omitempty: false
+          omitempty: true
         - name: Antibody Identifier 2
           clientname: Antibody Identifier URL
           clientvalue: https://www.ncbi.nlm.nih.gov/nuccore/{{ value|urlencode }}
@@ -104,7 +104,7 @@ columns:
         - name: Antibody Identifier 3
           clientname: Antibody Identifier
           include: true
-          omitempty: false
+          omitempty: true
         - name: Antibody Identifier 3
           clientname: Antibody Identifier URL
           clientvalue: https://www.ncbi.nlm.nih.gov/nuccore/{{ value|urlencode }}
@@ -116,7 +116,7 @@ columns:
         - name: Comment [Gene Identifier 1]
           clientname: Gene Identifier
           include: true
-          omitempty: false
+          omitempty: true
         - name: Comment [Gene Identifier 1]
           clientname: Gene Identifier URL
           clientvalue: http://www.ensembl.org/id/{{ value|urlencode }}
@@ -124,7 +124,7 @@ columns:
         - name: Comment [Gene Symbol 1]
           clientname: Gene Symbol
           include: true
-          omitempty: false
+          omitempty: true
 
   - group:
       namespace: openmicroscopy.org/mapr/gene
@@ -132,7 +132,7 @@ columns:
         - name: Comment [Gene Identifier 2]
           clientname: Gene Identifier
           include: true
-          omitempty: false
+          omitempty: true
         - name: Comment [Gene Identifier 2]
           clientname: Gene Identifier URL
           clientvalue: http://www.ensembl.org/id/{{ value|urlencode }}
@@ -140,7 +140,7 @@ columns:
         - name: Comment [Gene Symbol 2]
           clientname: Gene Symbol
           include: true
-          omitempty: false
+          omitempty: true
 
   - group:
       namespace: openmicroscopy.org/mapr/gene
@@ -148,7 +148,7 @@ columns:
         - name: Comment [Gene Identifier 3]
           clientname: Gene Identifier
           include: true
-          omitempty: false
+          omitempty: true
         - name: Comment [Gene Identifier 3]
           clientname: Gene Identifier URL
           clientvalue: http://www.ensembl.org/id/{{ value|urlencode }}
@@ -156,7 +156,7 @@ columns:
         - name: Comment [Gene Symbol 3]
           clientname: Gene Symbol
           include: true
-          omitempty: false
+          omitempty: true
 
 
 # Advanced options (experimental)
