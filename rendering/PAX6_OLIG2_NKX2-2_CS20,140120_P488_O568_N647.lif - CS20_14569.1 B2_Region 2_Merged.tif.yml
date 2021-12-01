@@ -1,0 +1,38 @@
+---
+channels:
+    1:
+        active: true
+        color: 0000FF
+        end: 125.0
+        label: DAPI
+        max: 148.0
+        min: 0.0
+        start: 0.0
+    2:
+        active: true
+        color: 00FF00
+        end: 25.0
+        label: PAX6
+        max: 23.0
+        min: 0.0
+        start: 3.0
+    3:
+        active: true
+        color: FFFF00
+        end: 25.0
+        label: OLIG2
+        max: 30.0
+        min: 0.0
+        start: 0.0
+    4:
+        active: true
+        color: FF0000
+        end: 25.0
+        label: NKX2
+        max: 104.0
+        min: 0.0
+        start: 3.0
+greyscale: false
+t: 1
+version: 2
+z: 7
