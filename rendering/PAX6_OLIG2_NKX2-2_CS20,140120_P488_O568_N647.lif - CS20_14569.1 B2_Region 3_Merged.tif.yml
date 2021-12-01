@@ -28,7 +28,7 @@ channels:
         active: true
         color: FF0000
         end: 25.0
-        label: NKX2
+        label: NKX2-2
         max: 183.0
         min: 0.0
         start: 3.0
