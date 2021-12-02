@@ -21,7 +21,7 @@ Study BioImage Archive Accession
 																						
 Study Public Release Date																																											
 # Study Publication																							
-Study PubMed ID	PMID:26395135																							
+Study PubMed ID	26395135																							
 Study Publication Title	Enabling research with human embryonic and fetal tissue resources												
 Study Author List	Gerrelli D, Lisgo S, Copp A, Lindsay S.																						
 Study PMC ID	 																						
