@@ -39,9 +39,6 @@ columns:
     clientname: Image File Comments
     include: true
 
-  - name: Channels
-    include: true
-
   - name: Processed Data File
     include: true
 
