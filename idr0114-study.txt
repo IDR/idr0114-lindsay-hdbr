@@ -19,7 +19,7 @@ Study External URL	http://hdbratlas.org
 
 Study BioImage Archive Accession
 																						
-Study Public Release Date																																											
+Study Public Release Date	2021-12-07																																											
 # Study Publication																							
 Study PubMed ID	26395135																							
 Study Publication Title	Enabling research with human embryonic and fetal tissue resources												
