@@ -23,7 +23,7 @@ Study Public Release Date	2021-12-07
 # Study Publication																							
 Study PubMed ID	26395135																							
 Study Publication Title	Enabling research with human embryonic and fetal tissue resources												
-Study Author List	Gerrelli D, Lisgo S, Copp A, Lindsay S.																						
+Study Author List	Gerrelli D, Lisgo S, Copp A, Lindsay S																						
 Study PMC ID	 																						
 Study DOI	https://doi.org/10.1242/dev.122820																			
 																			
@@ -44,7 +44,7 @@ Study License URL	https://creativecommons.org/licenses/by/4.0/
 Study Copyright	Gerrelli et al
 																					
 Study Data Publisher	University of Dundee																						
-Study Data DOI																																
+Study Data DOI	https://doi.org/10.17867/10000173																															
 Term Source Name	NCBITaxon	EFO	CMPO	FBbi																															
 Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/																																																											
 # EXPERIMENT SECTION												
